@@ -1,8 +1,5 @@
 @echo off
 title ForkBomb
-mode 40, 20
-chcp 65001 >nul
-call powershell exit >nul
 color B
 
 
